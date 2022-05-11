@@ -10,6 +10,7 @@ Der Arduino gibt, je nach empfangener Nachricht, ein Signal an das angeschlossen
   - 3: 30 Min High dann Low
   - 4: 60 Min High dann Low
   - 5: 1 Min High dann Low
+
 Der Arduino ist zwischen bei der Timerfunktion nicht ansprechbar. Das Signal kann also im Timermodus nicht manuell gesteuert werden.
 
 Die Zeichnung zeigt den richtigen Anschluss mit einem zusätzlichen Schalter zum manuellen schalten des relays.
